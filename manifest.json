@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "URL Prefix Switcher (Localhost Redirect)",
   "version": "1.0.0",
-  "description": "On click, replaces the current tab's URL origin with a target origin (e.g., http://localhost:8080) while preserving path, query and hash.",
+  "description": "Replaces the current tab's URL origin with a target origin (e.g., http://localhost:8080) while preserving path, query and hash.",
   "action": {
     "default_title": "Switch URL origin"
   },
